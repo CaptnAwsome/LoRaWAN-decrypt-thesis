@@ -1,0 +1,7 @@
+17 octets, Msg: Bar!, counter: 0, DevAddr: 30012DCC
+
+    40       CC       2D       01       30       80       00       00       0A       B7       E8       C3       92       A6       50       58       0D
+ 01000000 11001100 00101101 00000001 00110000 10000000 00000000 00000000 00001010 10110111 11101000 11000011 10010010 10100110 01010000 01011000 00001101
+|  MHDR  |               DEVADDR             |  Fctrl |       Fcnt      |  FPort |            FRMPayload             |                MIC                |
+|  MHDR  |                             FHDR                             |  FPort |            FRMPayload             |                MIC                |
+|                                                                      Phy Payload                                                                       |
