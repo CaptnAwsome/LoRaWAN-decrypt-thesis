@@ -1,4 +1,4 @@
 # LoRaWAN-decrypt-thesis
-Script used to decrypt LoRaWAN 1.0.2 packets with the same message counter
+Script used to decrypt LoRaWAN 1.0.2 packets with the same message counter.
 
-Additionally contains 2 stored LoRaWAN packets with message Foo! and Bar!
+Additionally, as an example, this repository contains 2 stored LoRaWAN packets of the messages Foo! and Bar!
